@@ -1,4 +1,4 @@
-# Python_SAP_CM01_CM03
+# Python => SAP CM01 | CM03
  Example on how to access SAP transactions via Python.
  Objective: this code shows how to connect to SAP and present a graph of the capacity and the workload for a work center (likewise transactions CM01 and CM03).
  GNU General Public License
